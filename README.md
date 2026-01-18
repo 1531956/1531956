@@ -21,7 +21,6 @@ These projects focus on cloud platforms and security tooling to simulate attacks
 |||||
 |||||
 
-## TECHNICAL SKILLS
- <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/83217c79-e435-46db-b0da-71af85c2a9ac" /><img width="95" height="20" alt="image" src="https://github.com/user-attachments/assets/f704917f-b6ab-4e4f-af9e-8ddbdebb0483" /><img width="109" height="20" alt="image" src="https://github.com/user-attachments/assets/eb192b14-44ac-4c03-8c0e-cc0899468b9a" />
+
 
  
