@@ -7,6 +7,7 @@ Welcome to My Portfolio
 ## ABOUT ME
 - Bachelor of Science, Cybersecurity Management & Analytics
 - Bachelor of Science, Business Information Technology - Decision Support Systems
+### Certifications
 - ISC2 CC
 - Microsoft Certified: Azure Fundamentals
 
