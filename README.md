@@ -8,6 +8,7 @@ Welcome to My Portfolio
 - Junior @ Virginia Tech
 - Bachelor of Science, Cybersecurity Management & Analytics
 - Bachelor of Science, Business Information Technology - Decision Support Systems
+- Interested in cloud security, SOC operations, and risk management
 ### Certifications
 - ISC2 CC
 - Microsoft Certified: Azure Fundamentals
