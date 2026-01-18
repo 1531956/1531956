@@ -1,7 +1,7 @@
 # Hi, I’m Anthony 
 Welcome to My Portfolio
 
-<img width="436" height="116" alt="image" src="https://github.com/user-attachments/assets/0fac9057-3587-43d2-8400-5eaf5d7c8b3f" />
+<img width="4070" height="1474" alt="image" src="https://github.com/user-attachments/assets/dc648114-30a9-4d38-b3a6-3a73820edecd" />
 
 
 ## ABOUT ME
@@ -16,7 +16,7 @@ These projects focus on cloud platforms and security tooling to simulate attacks
 
 | Project | Platform | Tools Used | Objective |
 |------|--------|-----------|-----------|
-| SOC Honeypot Lab | Azure | Microsoft Sentinel, Log Analytics, KQL, VM, NSG | Detect and analyze real-world attacks |
+| [SOC Honeypot Lab] () | Azure | Microsoft Sentinel, Log Analytics, KQL, VM, NSG | Detect and analyze real-world attacks |
 |||||
 |||||
 |||||
