@@ -22,6 +22,6 @@ These projects focus on cloud platforms and security tooling to simulate attacks
 | [SOC Honeypot Lab](https://github.com/1531956/Azure-Sentinel-Honeypot-Lab) | Azure | Microsoft Sentinel, Log Analytics, KQL, VM, NSG | Detect and analyze real-world attacks |
 | [Azure Firewall](https://github.com/1531956/Azure-Firewall-Hands-on-Lab) | Azure | Azure Firewall, VNet, VM | Deploy and test Azure Firewall rules |
 | [Azure DDoS Protection Monitoring](https://github.com/1531956/Azure-DDoS-Protection-Lab)| Azure | Azure DDoS Protection, Azure Monitor, Alerts, Dashboards | Configure and monitor Azure DDoS Protection using metrics and alert rules |
-
+| [AWS Security Monitoring Lab](https://github.com/1531956/AWS-Security-Monitoring-Lab/blob/main/README.md) | AWS | Secrets Manager, CloudTrail, CloudWatch Logs, CloudWatch Alarms, SNS, S3 | Monitor and alert on secret access events using AWS-native security and logging services |
 
  
